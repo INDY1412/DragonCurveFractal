@@ -1,1 +1,1 @@
-# fractal
+利用turtle库绘制龙形分形曲线Dragon Curve
